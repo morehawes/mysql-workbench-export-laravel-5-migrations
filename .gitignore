@@ -1,3 +1,5 @@
 !.gitignore
 .idea/
 *.bak
+__pycache__/
+*.pyc
